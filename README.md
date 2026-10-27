@@ -16,3 +16,5 @@ Il controllo degli aggiornamenti utilizza questo repository e cerca un file deno
 - Aggiornamenti con controllo versione, download verificato e backup prima del Setup.
 
 I dati degli ordini e i documenti aziendali restano nell'archivio configurato sul PC e non sono inclusi nei download.
+
+- Note interne per ogni offerta ricevuta dal fornitore.
